@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ma langue</string>
+    <string name="form_title">formulaire d\'inscription</string>
+    <string name="form_name">nom complet</string>
+    <string name="form_email">email</string>
+    <string name="form_phone">numéro de portable</string>
+    <string name="form_password">mot de passe</string>
+    <string name="form_agreement">J\'ai lu l\'accord et accepté</string>
+    <string name="btn_go">sauvez-le</string>
+    <string name="set_lang">Changer de langue</string>
+
+</resources>

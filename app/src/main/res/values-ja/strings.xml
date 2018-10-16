@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">私の言語</string>
+    <string name="form_title">登録フォーム</string>
+    <string name="form_name">正式名称</string>
+    <string name="form_email">電子メール</string>
+    <string name="form_phone">携帯電話番号</string>
+    <string name="form_password">パスワード</string>
+    <string name="form_agreement">私は契約を読み、同意した</string>
+    <string name="btn_go">それを保存する</string>
+    <string name="set_lang">言語の変更</string>
+</resources>

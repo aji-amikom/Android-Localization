@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Language</string>
+    <string name="form_title">Regitration Form</string>
+    <string name="form_name">Full Name</string>
+    <string name="form_email">Email</string>
+    <string name="form_phone">Phone Number</string>
+    <string name="form_password">Password</string>
+    <string name="form_agreement">I have read and agree the terms</string>
+    <string name="btn_go">Save</string>
+    <string name="set_lang">Set Language</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bahasa Saya</string>
+    <string name="form_title">Form Registrasi</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_email">Email</string>
+    <string name="form_phone">Nomor Hp</string>
+    <string name="form_password">Sandi</string>
+    <string name="form_agreement">Saya sudah membaca dan setuju dengan perjanjian</string>
+    <string name="btn_go">Simpan</string>
+    <string name="set_lang">Ganti Bahasa</string>
+</resources>

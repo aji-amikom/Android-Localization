@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">لغتي</string>
+    <string name="form_title">استمارة التسجيل</string>
+    <string name="form_name">الاسم الكامل</string>
+    <string name="form_email">البريد الإلكتروني</string>
+    <string name="form_phone">رقم الجوال</string>
+    <string name="form_password">صفر</string>
+    <string name="form_agreement">لقد قرأت الاتفاق ووافقت عليه</string>
+    <string name="btn_go">حفظ</string>
+    <string name="set_lang">تغيير اللغة</string>
+
+</resources>

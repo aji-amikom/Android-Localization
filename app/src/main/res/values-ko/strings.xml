@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">내 언어</string>
+    <string name="form_title">등록 양식</string>
+    <string name="form_name">성명</string>
+    <string name="form_email">이메일</string>
+    <string name="form_phone">휴대 전화 번호</string>
+    <string name="form_password">비밀번호</string>
+    <string name="form_agreement">나는 동의서를 읽고 합의했다.</string>
+    <string name="btn_go">저장</string>
+    <string name="set_lang">언어 변경</string>
+
+</resources>
